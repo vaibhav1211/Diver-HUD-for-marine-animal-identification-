@@ -35,6 +35,11 @@ git clone https://github.com/vaibhav1211/Diver-HUD-for-marine-animal-identificat
 cd Diver-HUD-for-marine-animal-identification
 
 3.Open the Jupyter Notebook:
+
 jupyter notebook HUDgogglerun.ipynb
+
+4.Download the Dataset from the below link:
+
+https://drive.google.com/file/d/1m6eyvLFyuaWu58QefkzT720XMERZkb9B/view?usp=sharing
 
 4.Run the notebook cells to execute the project.
